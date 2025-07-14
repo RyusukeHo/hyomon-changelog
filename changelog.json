@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-06-20 20:38",
-    "id":"forms"
+    "timestamp":"2025-07-14 11:14",
+    "id":"translate"
   },
   "changes":[
+    {
+      "id":"translate",
+      "date":"2025-07-14",
+      "title":"UIの刷新",
+      "description":"全体的な色合いを調整し、ダークテーマに対応しました。",
+      "type":"improvement"
+    },
     {
       "id":"element",
       "date":"2025-06-11",
