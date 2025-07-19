@@ -5,10 +5,17 @@
   },
   "changes":[
     {
+      "id":"forms",
+      "date":"2025-07-17",
+      "title":"回答の通知",
+      "description":"・メール通知を設定できるようになりました。",
+      "type":"improvement"
+    },
+    {
       "id":"translate",
-      "date":"2025-07-14",
+      "date":"2025-07-17",
       "title":"UIの刷新",
-      "description":"全体的な色合いを調整し、ダークテーマに対応しました。",
+      "description":"・全体的な色合いを調整し、ダークテーマに対応しました。\n・翻訳した単語の例文や難易度を表示できるようになりました。",
       "type":"improvement"
     },
     {
