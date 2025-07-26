@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-07-19 12:20",
-    "id":"translate"
+    "timestamp":"2025-07-26 19:25",
+    "id":"general"
   },
   "changes":[
+    {
+      "id":"general",
+      "date":"2025-07-26",
+      "title":"アイコン変更の即時反映",
+      "description":"Hyomonアカウントのアイコンの変更がほとんどのサービスで即時反映するようになりました。",
+      "type":"improvement"
+    },
     {
       "id":"forms",
       "date":"2025-07-17",
