@@ -1,12 +1,12 @@
 {
   "latest-change":{
-    "timestamp":"2025-07-26 19:25",
+    "timestamp":"2025-08-03 22:37",
     "id":"general"
   },
   "changes":[
     {
       "id":"element",
-      "date":"2025-07-26",
+      "date":"2025-08-03",
       "title":"クレジット機能の導入",
       "description":"AIの利用がクレジット制になり、様々なモデルが追加されました。",
       "type":"improvement"
@@ -48,4 +48,5 @@
     }
   ]
 }
+
 
