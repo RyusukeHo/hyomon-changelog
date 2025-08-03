@@ -5,6 +5,13 @@
   },
   "changes":[
     {
+      "id":"element",
+      "date":"2025-07-26",
+      "title":"クレジット機能の導入",
+      "description":"AIの利用がクレジット制になり、様々なモデルが追加されました。",
+      "type":"improvement"
+    },
+    {
       "id":"general",
       "date":"2025-07-26",
       "title":"Googleでログイン",
@@ -41,3 +48,4 @@
     }
   ]
 }
+
