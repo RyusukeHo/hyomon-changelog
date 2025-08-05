@@ -6,6 +6,13 @@
   "changes":[
     {
       "id":"element",
+      "date":"2025-08-05",
+      "title":"大幅アップデート",
+      "description":"会話の履歴管理、AIの文脈理解などに加えHyomonFormsのフォームを作成できる機能などが追加されました。",
+      "type":"improvement"
+    },
+    {
+      "id":"element",
       "date":"2025-08-03",
       "title":"クレジット機能の導入",
       "description":"AIの利用がクレジット制になり、様々なモデルが追加されました。",
@@ -48,5 +55,6 @@
     }
   ]
 }
+
 
 
