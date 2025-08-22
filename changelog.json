@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-08-08 23:07",
+    "timestamp":"2025-08-22 17:46",
     "id":"general"
   },
   "changes":[
+    {
+      "id":"element",
+      "date":"2025-08-22",
+      "title":"表と水平線の表示のバグを修正",
+      "description":"うまく表示されないバグを修正しました。",
+      "type":"improvement"
+    },
     {
       "id":"element",
       "date":"2025-08-05",
@@ -62,6 +69,7 @@
     }
   ]
 }
+
 
 
 
