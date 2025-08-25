@@ -1,16 +1,16 @@
 [
     {
         "type": "今週のピックアップ",
-        "topicTitle": "スタイルを指定して翻訳してみよう！",
-        "topicDescription": "Hyomon翻訳では指定したトーンで文を翻訳することができます",
-        "backgroundImage": "2025621-translate.jpg",
+        "topicTitle": "Element AIとチャットしてみよう",
+        "topicDescription": "学習に役立つ機能を重点的に実装しています",
+        "backgroundImage": "2025825-element.jpg",
         "topicTextColor": "#ffffff",
         "topicTextShadow": "#ffffff00"
     },
     {
         "type": "今週の名言",
-        "topicTitle": "最大の危機は、目標が高すぎて達成できないことではなく、低すぎて達成してしまうことである。",
-        "topicDescription": "ミケランジェロ",
+        "topicTitle": "針小棒大",
+        "topicDescription": "小さなことを大げさに言うこと。",
         "backgroundImage": "2025621-mountain.jpg",
         "topicTextColor": "#ffffff",
         "topicTextShadow": "#ffffff00"
