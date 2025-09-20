@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-09-14 22:40",
+    "timestamp":"2025-09-20 17:21",
     "id":"general"
   },
   "changes":[
+    {
+      "id":"store",
+      "date":"2025-09-20",
+      "title":"ストアサービス開始＆商品入荷",
+      "description":"ストアサービスを利用できるようになりました。\n現在HyomonElement用のクレジットのみを購入することができます。",
+      "type":"improvement"
+    }
     {
       "id":"element",
       "date":"2025-09-14",
@@ -104,6 +111,7 @@
     }
   ]
 }
+
 
 
 
