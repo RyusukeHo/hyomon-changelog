@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-09-20 17:21",
+    "timestamp":"2025-09-21 17:16",
     "id":"general"
   },
   "changes":[
+     {
+      "id":"general",
+      "date":"2025-09-21",
+      "title":"Vibdropのリニューアル工事のお知らせ",
+      "description":"この度、大変勝手ながらHyomon VibdropをHyomon Fluxに名称変更することを決定いたしました。\nサービス名の変更と掲示板サービスからSNSへシフトを目的としています。\n皆様のご理解・ご協力の程よろしくお願いいたします。",
+      "type":"improvement"
+    },
     {
       "id":"store",
       "date":"2025-09-20",
@@ -111,6 +118,7 @@
     }
   ]
 }
+
 
 
 
