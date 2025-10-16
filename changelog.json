@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-10-04 11:08",
-    "id":"drive"
+    "timestamp":"2025-10-16 19:14",
+    "id":"nodo"
   },
   "changes":[
+    {
+      "id":"nodo",
+      "date":"2025-10-16",
+      "title":"ノードベースのプログラミングサービスNodo公開",
+      "description":"ノードと呼ばれるカードを組み合わせて論理演算などを体験することができます。",
+      "type":"improvement"
+     },
     {
       "id":"drive",
       "date":"2025-10-04",
@@ -132,6 +139,7 @@
     }
   ]
 }
+
 
 
 
