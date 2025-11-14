@@ -5,6 +5,13 @@
   },
   "changes":[
     {
+      "id":"store",
+      "date":"2025-11-14",
+      "title":"デイリーチャレンジを解禁",
+      "description":"一日一回、Hyomon Storeで運試しができるようになりました！\n当たるとポイントをためることができます。ぜひプレイしてみましょう！\n<a href=\"https://store.hyomontech.com/daily-challenge/\">https://store.hyomontech.com/daily-challenge/</a>",
+      "type":"improvement"
+    },
+    {
       "id":"element",
       "date":"2025-10-18",
       "title":"スキル機能追加、個人用プロンプト設定も可能に",
@@ -146,6 +153,7 @@
     }
   ]
 }
+
 
 
 
