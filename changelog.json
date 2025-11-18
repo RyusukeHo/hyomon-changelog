@@ -5,6 +5,13 @@
   },
   "changes":[
     {
+      "id":"honsoku",
+      "date":"2025-11-18",
+      "title":"HyomonTechにタイピングゲームが登場！",
+      "description":"翻速は英単語をタイピングしてマルチプレイで友達と英語力を磨きあえる最高のタイピングゲームです。ぜひお試しください。<a href=\"https://store.hyomontech.com/honsoku/\">https://store.hyomontech.com/honsoku/</a>",
+      "type":"improvement"
+    },
+    {
       "id":"store",
       "date":"2025-11-14",
       "title":"デイリーチャレンジを解禁",
@@ -153,6 +160,7 @@
     }
   ]
 }
+
 
 
 
