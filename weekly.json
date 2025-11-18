@@ -1,16 +1,16 @@
 [
     {
         "type": "今週のピックアップ",
-        "topicTitle": "Element AIとチャットしてみよう",
-        "topicDescription": "学習に役立つ機能を重点的に実装しています",
+        "topicTitle": "翻速で英単語を覚えよう",
+        "topicDescription": "様々なカテゴリーを選択してプレイできます",
         "backgroundImage": "2025825-element.jpg",
         "topicTextColor": "#ffffff",
         "topicTextShadow": "#00000066"
     },
     {
         "type": "今週の故事成語",
-        "topicTitle": "針小棒大",
-        "topicDescription": "小さなことを大げさに言うこと。",
+        "topicTitle": "羊頭狗肉",
+        "topicDescription": "見かけは素晴らしいが中身が伴っていないこと",
         "backgroundImage": "2025621-mountain.jpg",
         "topicTextColor": "#ffffff",
         "topicTextShadow": "#ffffff00"
