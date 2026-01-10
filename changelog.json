@@ -8,7 +8,7 @@
       "id":"general",
       "date":"2025-01-09",
       "title":"メンテナンスのお知らせ",
-      "description":"HyomonTechのサービスをより高速に動作するよう大規模なインフラ整備を行います。",
+      "description":"HyomonTechのサービスがより高速に動作するよう大規模なインフラ整備を行います。",
       "type":"improvement"
     },
     {
@@ -216,6 +216,7 @@
     }
   ]
 }
+
 
 
 
