@@ -5,6 +5,13 @@
   },
   "changes":[
     {
+      "id":"operator",
+      "date":"2025-01-11",
+      "title":"新サービス「Operator」リリース",
+      "description":"このアプリではChatの受信などのあらゆるイベントを検知し、Webhookでほかのサイトに送ることができます。",
+      "type":"improvement"
+    },
+    {
       "id":"general",
       "date":"2025-01-09",
       "title":"メンテナンスのお知らせ",
@@ -216,6 +223,7 @@
     }
   ]
 }
+
 
 
 
