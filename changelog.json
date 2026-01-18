@@ -5,6 +5,13 @@
   },
   "changes":[
     {
+      "id":"translate",
+      "date":"2025-01-11",
+      "title":"Hyomon翻訳TolkaUI対応",
+      "description":"デザインをTolkaUIに対応させ、新たにスペルチェックなどの機能が追加されました。",
+      "type":"improvement"
+    },
+    {
       "id":"operator",
       "date":"2025-01-11",
       "title":"新サービス「Operator」リリース",
@@ -223,6 +230,7 @@
     }
   ]
 }
+
 
 
 
