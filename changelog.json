@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-11-29 12:17",
-    "id":"honsoku"
+    "timestamp":"2025-01-23 20:34",
+    "id":"drive"
   },
   "changes":[
+    {
+      "id":"drive",
+      "date":"2025-01-23",
+      "title":"Drive画像プレビュー対応",
+      "description":"画像ファイルを開かなくてもファイル一覧にサムネイルが表示されるようになりました。",
+      "type":"improvement"
+    },
     {
       "id":"translate",
       "date":"2025-01-11",
@@ -230,6 +237,7 @@
     }
   ]
 }
+
 
 
 
