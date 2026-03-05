@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-01-23 20:34",
+    "timestamp":"2025-03-05 19:17",
     "id":"drive"
   },
   "changes":[
+    {
+      "id":"waimoneet",
+      "date":"2025-03-05",
+      "title":"新サービス「Waimoneet」登場",
+      "description":"Fluxはすべてのユーザー向け、Chatは日々の連絡(？)向け...ちょっと心を休ませる場所が必要でした。\nWaimoneetはアプリ名こそ可笑しいですが、通知もリアルタイム返信もない、だけど落ち着くサービスを目指して設計されました。",
+      "type":"improvement"
+    },
     {
       "id":"store",
       "date":"2025-02-23",
@@ -251,6 +258,7 @@
     }
   ]
 }
+
 
 
 
