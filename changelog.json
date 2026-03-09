@@ -1,9 +1,16 @@
 {
   "latest-change":{
     "timestamp":"2025-03-05 19:17",
-    "id":"drive"
+    "id":"general"
   },
   "changes":[
+    {
+      "id":"general",
+      "date":"2025-03-09",
+      "title":"ログイン時のリダイレクト対応",
+      "description":"大変お待たせ致しました。アプリページからログインページを開いた時に認証完了後アプリページに戻ってくるようになりました。",
+      "type":"improvement"
+    },
     {
       "id":"waimoneet",
       "date":"2025-03-05",
@@ -258,6 +265,7 @@
     }
   ]
 }
+
 
 
 
