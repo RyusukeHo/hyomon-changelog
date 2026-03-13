@@ -1,9 +1,23 @@
 {
   "latest-change":{
-    "timestamp":"2025-03-09",
-    "id":"drive"
+    "timestamp":"2025-03-13",
+    "id":"educator"
   },
   "changes":[
+    {
+      "id":"educator",
+      "date":"2025-03-13",
+      "title":"課題の管理をQRコードで！Educatorを正式リリース",
+      "description":"QRコードをノートに貼ってそれをスキャンするだけで提出記録が管理できるサービスを開始しました。ほとんどの方は使わないと思いますが、興味のある方は、無料ですのでぜひお試しください。",
+      "type":"improvement"
+    },
+    {
+      "id":"prism",
+      "date":"2025-03-13",
+      "title":"HyomonTech内の作業を自動化できるサービス「Prism」を正式リリース",
+      "description":"Hyomon翻訳API、Hyomon Drive APIなどが利用可能になる予定です。Operatorと組み合わせると可能性は無限大です。",
+      "type":"improvement"
+    },
     {
       "id":"drive",
       "date":"2025-03-09",
@@ -272,6 +286,7 @@
     }
   ]
 }
+
 
 
 
