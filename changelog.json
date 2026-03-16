@@ -1,11 +1,11 @@
 {
   "latest-change":{
-    "timestamp":"2025-03-13",
-    "id":"educator"
+    "timestamp":"2025-03-14",
+    "id":"element"
   },
   "changes":[
     {
-      "id":"drive",
+      "id":"element",
       "date":"2025-03-14",
       "title":"ElementでDriveのファイル操作が可能に",
       "description":"ファイルの読み込み・保存、フォルダー作成など様々な作業ができるようになりました。ご利用の際にはスキルのところに「Drive」にチェックを入れて有効にしてください。",
