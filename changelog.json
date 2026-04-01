@@ -1,9 +1,16 @@
 {
   "latest-change":{
-    "timestamp":"2025-03-14",
+    "timestamp":"2025-04-01",
     "id":"element"
   },
   "changes":[
+    {
+      "id":"drive",
+      "date":"2025-04-01",
+      "title":"Driveで共有URLをQRコードで表示可能に",
+      "description":"ファイルメニューの「共有」メニューにある「QRを表示」からご利用いただけます。PCからスマホにファイルを送ったり、一度に大勢の人にファイルを共有することができたりします(この場合は第三者アクセスを閲覧者以上に設定する必要アリ)\n",
+      "type":"improvement"
+    },
     {
       "id":"element",
       "date":"2025-03-14",
